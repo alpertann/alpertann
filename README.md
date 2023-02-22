@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently learning and practicing. <br>⚡ I'm studying International Relations at Selcuk University. <br>💬 You can reach me on: <br>https://www.linkedin.com/in/alper-tan-53<br>
+🔭 I am currently learning and practicing. <br>⚡ I'm studying International Relations at Selcuk University. <br>💬 You can reach me on: <br>https://www.linkedin.com/in/alper-tan/<br>
 
 
 ## 🌐 Socials:
