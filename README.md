@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I am currently learning and practicing. <br>💬 You can reach me on: <br>https://www.linkedin.com/in/alper-tan/<br>
+# 💫 Hi there!
+💬 You can reach me on: <br>https://www.linkedin.com/in/alper-tan/<br>
 
 
 ## 🌐 Socials:
