@@ -1,4 +1,4 @@
-# 💫 Hi there!
+# Hi there!
 💬 You can reach me on: <br>https://www.linkedin.com/in/alper-tan/<br>
 
 
