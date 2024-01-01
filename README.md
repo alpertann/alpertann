@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/cE02lboc8JPO/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/3o85xwGZR5UtB6SiL6/giphy.gif"  />
 
 ###
 
@@ -46,9 +46,5 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/alpertann/alpertann/output/snake.svg" alt="Snake animation" />
 
 ###
